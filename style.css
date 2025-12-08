@@ -20,7 +20,7 @@ body {
 	overflow: hidden;
 }
 
-.card img {
+.card .img1 {
 	width: 500px;
 	height: auto;
 }
